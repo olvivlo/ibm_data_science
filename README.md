@@ -14,11 +14,11 @@ This repository showcases projects completed during the IBM Data Science Profess
 ## Capstone Project
 The capstone project, spanning 8 notebooks, predicts if SpaceX's Falcon 9 first stage will land successfully, a key factor in launch cost determination. This project collects data via API and web scraping (e.g., Falcon 9 launch records from Wikipedia), performs exploratory data analysis, and feature engineering. It includes geospatial analysis of launch sites using Folium, categorizes landing outcomes (e.g., True/False for Ocean, RTLS, ASDS), and builds a machine learning pipeline to predict landing success, aiding companies bidding against SpaceX.
 
-- [API Data Collection](Capstone_Project/1_api_data_collection_spaceX_falcon_9.ipynb)
-- [Web Scraping Data Collection](Capstone_Project/2_web_scraping_data_collection_spaceX_falcon_9.ipynb)
-- [Data Wrangling](Capstone_Project/3_data_wrangling_spaceX_falcon_9.ipynb)
-- [SQL EDA](Capstone_Project/4_SQL_EDA_spaceX_falcon_9.ipynb)
-- [EDA Data Visualization](Capstone_Project/5_EDA_data_visualization_spaceX_falcon_9.ipynb)
-- [Interactive Visual Analytics with Folium](Capstone_Project/6_interactive_visual_analytics_with_folium_spaceX_falcon_9.ipynb)
-- [Interactive Dashboard](Capstone_Project/7_interactive_dashboard_spaceX_falcon_9.py)
-- [Machine Learning Prediction](Capstone_Project/8_machine_learning_prediction_spaceX_falcon_9.ipynb)
+- [API Data Collection](falcon_9_first_stage_landing_prediction/1_api_data_collection.ipynb)
+- [Web Scraping Data Collection](falcon_9_first_stage_landing_prediction/2_web_scraping_data_collection.ipynb)
+- [Data Wrangling](falcon_9_first_stage_landing_prediction/3_data_wrangling.ipynb)
+- [SQL EDA](falcon_9_first_stage_landing_prediction/4_SQL_and_EDA.ipynb)
+- [EDA Data Visualization](falcon_9_first_stage_landing_prediction/5_EDA_data_visualization.ipynb)
+- [Interactive Visual Analytics with Folium](falcon_9_first_stage_landing_prediction/6_interactive_visual_analytics_with_folium.ipynb)
+- [Interactive Dashboard](falcon_9_first_stage_landing_prediction/7_interactive_dashboard.py)
+- [Machine Learning Prediction](falcon_9_first_stage_landing_prediction/8_machine_learning_prediction.ipynb)
