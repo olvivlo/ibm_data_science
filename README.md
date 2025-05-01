@@ -9,7 +9,7 @@ This repository showcases projects completed during the IBM Data Science Profess
 4. **[Stock Analysis](stock_analysis.ipynb)**: Conducted stock market analysis using Python.
 5. **[Interactive Dashboard Flight Delay](interactive_dashboard_flight_delay.py)**: Built an interactive dashboard for flight delay analysis.
 6. **[Analysis Dashboard Automobile Sales](analysis_dashboard_automobile_sales.py)**: Created a dashboard for automobile sales analysis.
-7. **[Capstone Project: SpaceX Falcon 9 First Stage Landing Prediction](#capstone-project)**: A comprehensive project predicting Falcon 9 first-stage landing success (details below).
+7. **[Capstone Project: SpaceX Falcon 9 First Stage Landing Prediction](capstone_project_falcon_9_first_stage_landing_prediction)**: A comprehensive project predicting Falcon 9 first-stage landing success (details below).
 
 ## Capstone Project
 The capstone project, spanning 8 notebooks, predicts if SpaceX's Falcon 9 first stage will land successfully, a key factor in launch cost determination. This project collects data via API and web scraping (e.g., Falcon 9 launch records from Wikipedia), performs exploratory data analysis, and feature engineering. It includes geospatial analysis of launch sites using Folium, categorizes landing outcomes (e.g., True/False for Ocean, RTLS, ASDS), and builds a machine learning pipeline to predict landing success, aiding companies bidding against SpaceX.
